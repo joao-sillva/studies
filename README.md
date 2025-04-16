@@ -1,5 +1,6 @@
 # studies
 
+- 15/04 - Desenvolvido projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
 - 14/04 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos 
 - 13/04 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model 
 - 12/04 - Assistido módulo de **[Fundamentos HTML]()** - Elementos estruturais, Caminhos absolutos e relativos
