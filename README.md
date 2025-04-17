@@ -1,5 +1,6 @@
 # studies
 
+- 17/04 - Desenvolvido parte 2 do desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 16/04 - Desenvolvido parte 1 do desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 15/04 - Desenvolvido projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
 - 14/04 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos 
