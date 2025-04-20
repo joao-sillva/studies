@@ -1,6 +1,9 @@
 # studies
 
-- 19/04 - Desenvolvido desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
+- 20/04 - Desenvolvido projeto **[Treine.me](https://github.com/joao-sillva/treine-me)**
+- 20/04 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** - Conhecendo novos conceitos
+- 19/04 - Desenvolvido parte 2 do desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
+- 19/04 - Desenvolvido parte 1 do desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
 - 18/04 - Desenvolvido projeto **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**
 - 18/04 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** 
 - 17/04 - Desenvolvido parte 2 do desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
