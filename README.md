@@ -1,5 +1,7 @@
 # studies
 
+- 21/04 - Desenvolvido parte 2 do desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
+- 21/04 - Desenvolvido parte 1 do desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
 - 20/04 - Desenvolvido projeto **[Treine.me](https://github.com/joao-sillva/treine-me)**
 - 20/04 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** - Conhecendo novos conceitos
 - 19/04 - Desenvolvido parte 2 do desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
