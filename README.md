@@ -1,5 +1,6 @@
 # studies
 
+- 22/04 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
 - 21/04 - Desenvolvido parte 2 do desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
 - 21/04 - Desenvolvido parte 1 do desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
 - 20/04 - Desenvolvido projeto **[Treine.me](https://github.com/joao-sillva/treine-me)**
