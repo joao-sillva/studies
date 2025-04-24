@@ -1,5 +1,6 @@
 # studies
 
+- 24/04 - Assistido módulo de **[Layout com CSS]()** - CSS grid
 - 23/04 - Desenvolvido projeto **[Travelgram](https://github.com/joao-sillva/travelgram)**
 - 22/04 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
 - 21/04 - Desenvolvido parte 2 do desafio **[Rocket.sect](https://github.com/joao-sillva/rocket-sect)**
