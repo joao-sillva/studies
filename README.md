@@ -1,5 +1,6 @@
 # studies
 
+- 25/04 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 24/04 - Assistido módulo de **[Layout com CSS]()** - CSS grid
 - 23/04 - Desenvolvido projeto **[Travelgram](https://github.com/joao-sillva/travelgram)**
 - 22/04 - Assistido módulo de **[Layout com CSS]()** - Layout e evolução, CSS flexbox
