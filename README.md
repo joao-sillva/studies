@@ -1,5 +1,7 @@
 # studies
 
+- 27/04 - Desenvolvido parte 2 do desafio **[Portfolio Dev](https://github.com/joao-sillva/portfolio-dev)**
+- 27/04 - Desenvolvido parte 1 do desafio **[Portfolio Dev](https://github.com/joao-sillva/portfolio-dev)**
 - 26/04 - Desenvolvido parte 2 do projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 25/04 - Desenvolvido parte 1 do projeto **[Tech News](https://github.com/joao-sillva/tech-news)**
 - 24/04 - Assistido módulo de **[Layout com CSS]()** - CSS grid
