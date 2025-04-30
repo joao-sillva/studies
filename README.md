@@ -1,6 +1,7 @@
 # studies
 
-- 29/04 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joaosillva/estrelas-do-amanha)**
+- 30/01 - Desenvolvido parte 2 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
+- 29/04 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
 - 28/04 - Assistido módulo de **[Formulários]()** - Formulários HTML
 - 27/04 - Desenvolvido parte 2 do desafio **[Portfolio Dev](https://github.com/joao-sillva/portfolio-dev)**
 - 27/04 - Desenvolvido parte 1 do desafio **[Portfolio Dev](https://github.com/joao-sillva/portfolio-dev)**
