@@ -1,6 +1,15 @@
 # studies
 
-- 30/01 - Desenvolvido parte 2 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
+### Maio 2025
+
+- 02/05 - Desenvolvido parte 2 do desafio **[Festivite](https://github.com/joao-sillva/festivite)**
+- 01/05 - Desenvolvido parte 1 do desafio **[Festivite](https://github.com/joao-sillva/festivite)**
+
+<br>
+
+### Abril 2025
+
+- 30/04 - Desenvolvido parte 2 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
 - 29/04 - Desenvolvido parte 1 do projeto **[Estrelas do amanhã](https://github.com/joao-sillva/estrelas-do-amanha)**
 - 28/04 - Assistido módulo de **[Formulários]()** - Formulários HTML
 - 27/04 - Desenvolvido parte 2 do desafio **[Portfolio Dev](https://github.com/joao-sillva/portfolio-dev)**
