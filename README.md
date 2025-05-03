@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 03/05 - Desenvolvido projeto **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**
 - 02/05 - Desenvolvido parte 2 do desafio **[Festivite](https://github.com/joao-sillva/festivite)**
 - 01/05 - Desenvolvido parte 1 do desafio **[Festivite](https://github.com/joao-sillva/festivite)**
 
