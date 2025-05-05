@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 05/05 - Desenvolvido desafio **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**
 - 04/05 - Desenvolvido desafio **[Mentoria](https://github.com/joao-sillva/mentoria)**
 - 03/05 - Desenvolvido projeto **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**
 - 02/05 - Desenvolvido parte 2 do desafio **[Festivite](https://github.com/joao-sillva/festivite)**
