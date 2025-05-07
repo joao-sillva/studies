@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 07/05 - Assistido módulo de **[Responsividade]()** - CSS media queries
 - 06/05 - Assistido módulo de **[CSS Functions]()**
 - 05/05 - Desenvolvido desafio **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**
 - 04/05 - Desenvolvido desafio **[Mentoria](https://github.com/joao-sillva/mentoria)**
