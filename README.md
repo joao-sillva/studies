@@ -2,8 +2,9 @@
 
 ### Maio 2025
 
-- 08/05 - Desenvolvido parte 3 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
-- 08/05 - Desenvolvido parte 2 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
+- 11/05 - Desenvolvido responsividade para projetos **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**, **[Local turístico](https://github.com/joao-sillva/local-turistico)**
+- 10/05 - Desenvolvido parte 3 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
+- 09/05 - Desenvolvido parte 2 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 08/05 - Desenvolvido parte 1 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
 - 07/05 - Assistido módulo de **[Responsividade]()** - CSS media queries
 - 06/05 - Assistido módulo de **[CSS Functions]()**
