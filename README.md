@@ -2,7 +2,7 @@
 
 ### Maio 2025
 
-
+- 12/05 - Desenvolvido responsividade para projetos **[Travelgram](https://github.com/joao-sillva/travelgram)**, **[Tech News](https://github.com/joao-sillva/tech-news)**, **[Portfólio dev](https://github.com/joao-sillva/portfolio-dev)**
 - 11/05 - Desenvolvido responsividade para projetos **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**, **[Flutuar](https://github.com/joao-sillva/flutuar)**, **[Treine-me](https://github.com/joao-sillva/treine-me)**, **[Rocket.sect](https://github.com/joao-sillva/rocket.sect)**
 - 11/05 - Desenvolvido responsividade para projetos **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**, **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 10/05 - Desenvolvido parte 3 do projeto **[Zingen](https://github.com/joao-sillva/zingen)**
