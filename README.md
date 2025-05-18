@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 18/05 - Desenvolvido projeto **[Galaxies](https://github.com/joao-sillva/galaxies)**
 - 17/05 - Desenvolvido projeto **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
 - 15/05 - Desenvolvido projeto **[Responsividade](https://github.com/joao-sillva/responsividade)**
 - 14/05 - Desenvolvido responsividade para projetos **[Crie seu evento](https://github.com/joao-sillva/crie-seu-evento)**, **[Mentoria](https://github.com/joao-sillva/mentoria)**, **[Avalie sua mentoria](https://github.com/joao-sillva/avalie-sua-mentoria)**
