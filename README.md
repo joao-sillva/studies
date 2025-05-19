@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 19/05 - Assistido módulo de **[CSS Animations & Transitions]()**
 - 18/05 - Desenvolvido projeto **[Galaxies](https://github.com/joao-sillva/galaxies)**
 - 17/05 - Desenvolvido projeto **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
 - 15/05 - Desenvolvido projeto **[Responsividade](https://github.com/joao-sillva/responsividade)**
