@@ -2,6 +2,8 @@
 
 ### Maio 2025
 
+- 21/05 - Desenvolvido parte 2 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
+- 20/05 - Desenvolvido parte 1 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
 - 19/05 - Assistido módulo de **[CSS Animations & Transitions]()**
 - 18/05 - Desenvolvido projeto **[Galaxies](https://github.com/joao-sillva/galaxies)**
 - 17/05 - Desenvolvido projeto **[Cheesecake](https://github.com/joao-sillva/cheesecake)**
