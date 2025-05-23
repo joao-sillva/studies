@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 23/05 - Desenvolvido parte 2 do desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
 - 22/05 - Desenvolvido parte 1 do desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
 - 21/05 - Desenvolvido parte 2 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
 - 20/05 - Desenvolvido parte 1 do projeto **[Snitap](https://github.com/joao-sillva/snitap)**
