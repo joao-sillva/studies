@@ -2,6 +2,7 @@
 
 ### Maio 2025
 
+- 26/05 - Desenvolvido desafio **[Blog de gatos](https://github.com/joao-sillva/blog-de-gatos)**
 - 25/05 - Desenvolvido projeto **[Fotoblog](https://github.com/joao-sillva/fotoblog)**
 - 23/05 - Desenvolvido parte 2 do desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
 - 22/05 - Desenvolvido parte 1 do desafio **[Encantos literários](https://github.com/joao-sillva/encantos-literarios)**
